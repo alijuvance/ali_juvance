@@ -42,5 +42,5 @@ Actuellement en Master d'Informatique à l'ENI et fort d'une Licence Professionn
 ### 🐍 Contribution Graph Animation
 
 <div align="center">
-  <img src="https://github.com/VOTRE_USERNAME_GITHUB/VOTRE_USERNAME_GITHUB/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/alijuvance/alijuvance/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
