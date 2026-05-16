@@ -1,4 +1,3 @@
-# ali_juvance
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Salut+👋,+je+suis+Ali+Juvance;Développeur+Full-stack+Senior;Spécialiste+Web3+%26+Blockchain;Créateur+d'expériences+immersives" alt="Typing SVG" />
 </div>
@@ -33,8 +32,8 @@ Actuellement en Master d'Informatique à l'ENI et fort d'une Licence Professionn
 ### 🔥 Mes Statistiques
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VOTRE_USERNAME_GITHUB&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Statistiques GitHub" height="192"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE_USERNAME_GITHUB&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Langages" height="192"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=alijuvance&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="192"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alijuvance&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Langs" height="192"/>
 </div>
 
 ---
